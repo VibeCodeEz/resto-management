@@ -1,0 +1,27 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.dbmdl
+*.pdb
+*.publish.xml
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Publish output
+MyWinApp/bin/
+MyWinApp/obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.sln.docstates
